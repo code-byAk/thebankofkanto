@@ -1,0 +1,19 @@
+
+*{margin:0 ;padding: 0;box-sizing: border-box;}
+
+button{
+    transition: 1.5s;
+}
+
+button:hover{
+background-color:#616C6F;
+color: white;
+}
+
+ h2{
+     color: black;
+ }
+
+ table{
+    border: 2px solid black;
+ }
